@@ -3,6 +3,7 @@
     "id": "111",
     "code": "111",
     "name": "抗衰粉",
+    "src_folder": "111_抗衰粉",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -11,6 +12,10 @@
       "detail": {
         "title": "使用说明",
         "html": "<div class=\"pv-view\">\n  <div class=\"pv-hero\">\n    <div class=\"pv-hero-title\">定制抗衰组合营养素（抗衰粉）· 使用说明</div>\n    <div class=\"pv-hero-sub\">线粒体质量维护 · 照着做</div>\n  </div>\n\n  <!-- 成分与规格 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">一、成分与规格</div>\n    <div class=\"pv-spec-grid\" style=\"grid-template-columns:1fr 1fr 1fr;\">\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">单份含量</div><div class=\"pv-spec-value\">1g</div><div class=\"pv-spec-sub\">1000mg/份</div></div>\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">每袋</div><div class=\"pv-spec-value\">50g</div><div class=\"pv-spec-sub\">约50天用量</div></div>\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">成分</div><div class=\"pv-spec-value\">5种</div><div class=\"pv-spec-sub\">线粒体抗衰为核心</div></div>\n    </div>\n    <table class=\"pv-table\">\n      <tr><th>序号</th><th>成分名称</th><th>每1g</th><th>占比</th></tr>\n      <tr><td>1</td><td>吡咯喹啉醌（PQQ）</td><td>20 mg</td><td>2%</td></tr>\n      <tr><td>2</td><td>麦角硫因（Ergothioneine）</td><td>30 mg</td><td>3%</td></tr>\n      <tr><td>3</td><td>亚精胺（Spermidine，高纯度三盐酸）</td><td>20 mg</td><td>2%</td></tr>\n      <tr><td>4</td><td>尿石素A（Urolithin A）</td><td>465 mg</td><td>46.5%</td></tr>\n      <tr><td>5</td><td>α-酮戊二酸（α-AKG，游离酸）</td><td>465 mg</td><td>46.5%</td></tr>\n      <tr><td><strong>合计</strong></td><td></td><td><strong>1000 mg</strong></td><td><strong>100%</strong></td></tr>\n    </table>\n    <p class=\"pv-hint\">本品为定制科研原料，仅供科研使用，不可替代药物进行疾病治疗。</p>\n  </div>\n\n  <!-- 使用方式 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">二、使用方式</div>\n    <p class=\"pv-note\"><strong>每日用量</strong>（按使用场景选剂量）：</p>\n    <div class=\"pv-dose\">\n      <div class=\"pv-dose-start\">🧩 你在搭配什么用？</div>\n      <div class=\"pv-dose-arrow\">↓<span>按场景选剂量</span></div>\n      <div class=\"pv-dose-branch\">\n        <div class=\"pv-dose-card good\">\n          <div class=\"pv-dose-tag\">场景一</div>\n          <div class=\"pv-dose-label\">搭配新四件套</div>\n          <div class=\"pv-dose-value\">1<span class=\"unit\"> g/日</span></div>\n          <div class=\"pv-dose-note\">尿石素A 465mg · α-AKG 465mg</div>\n        </div>\n        <div class=\"pv-dose-card alt\">\n          <div class=\"pv-dose-tag\">场景二</div>\n          <div class=\"pv-dose-label\">搭配基础全营养素或保健</div>\n          <div class=\"pv-dose-value\">2<span class=\"unit\"> g/日</span></div>\n          <div class=\"pv-dose-note\">尿石素A 930mg · α-AKG 930mg</div>\n        </div>\n      </div>\n    </div>\n\n    <p class=\"pv-note\"><strong>服用方式</strong>：</p>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">💧</div><div><strong>冲泡</strong><br><span class=\"pv-muted\">取对应剂量粉末，温水冲调后服用。水温不超过50°C，过热可能影响成分稳定性。</span></div></div>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">🍽️</div><div><strong>随餐服用</strong><br><span class=\"pv-muted\">尿石素A 为脂溶性，随含脂肪膳食可能更利于吸收（机制推演，无直接对比研究验证）；α-酮戊二酸为游离酸、酸性较强，随餐可缓冲对胃的刺激。建议随餐服用、避免空腹大量摄入。</span></div></div>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">🔄</div><div><strong>分次服用</strong><br><span class=\"pv-muted\">可将每日剂量分1次或分多次服用，按个人习惯即可。</span></div></div>\n\n    <div class=\"pv-tip\"><strong>⚠️ 剂量调整提示</strong>：本品中亚精胺剂量（20–40 mg/日）远高于临床研究常用剂量（0.9 mg/日）<sup>[1]</sup>，该高剂量无人体研究支撑，<strong>请勿自行再加量</strong>。</div>\n  </div>\n\n  <!-- 使用小贴士 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">三、使用小贴士：原料粉怎么称量</div>\n    <p class=\"pv-note\"><strong>为什么用配勺会不准？</strong><br>粉末在自然堆积时测到的是较理想的\"松装密度\"。实际包装与流通中，粉体易受物理挤压：装袋挤压压缩粉体间隙、运输抖动产生类似\"振实\"的压实、瓶装填震荡同样紧实粉体。因此同一把量勺舀出的实际重量会因包装与受力不同产生偏差。</p>\n    <p class=\"pv-note\"><strong>那怎么称才靠谱？</strong></p>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">⚖️</div><div><strong>首选：用电子秤精确称量</strong><br><span class=\"pv-muted\">建议使用 0.01g 精度电子秤。</span></div></div>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">🥄</div><div><strong>用勺可行，但要先校正</strong><br><span class=\"pv-muted\">首次使用前称一次\"一平勺≈多少克\"，记录并固定换算值（本品若附赠量勺，请先称量校准，勿凭经验估）。</span></div></div>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">📏</div><div><strong>统一用\"刮平的平勺\"，不要堆高</strong><br><span class=\"pv-muted\">平勺是唯一可复现的操作。</span></div></div>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">⚡</div><div><strong>注意静电（塑料勺尤其明显）</strong><br><span class=\"pv-muted\">可轻敲勺柄或改用金属/木质勺。</span></div></div>\n    <div class=\"pv-benefit\"><div class=\"pv-b-icon\">🔄</div><div><strong>校正值会漂移</strong><br><span class=\"pv-muted\">粉体状态变化时（吸潮、结块、天气潮湿）重新称一次。</span></div></div>\n    <p class=\"pv-note\"><strong>还要注意防潮</strong><br>本品为高浓度粉末原料，受潮后可能结块、更难舀均匀。<strong>请务必密封防潮存放，开封后尽快用、每次取用后盖紧</strong>。</p>\n    <div class=\"pv-tip\"><strong>⚠️ 特别提醒</strong>：本品每日用量约 1–2g，配勺误差占比尚可接受；剂量越小的原料越必须用秤。本品为高浓度原料粉，若压实超量可能使每日摄入偏离推荐剂量——尤其亚精胺剂量本就高于研究常用量，宁少勿多，有秤尽量用秤。</div>\n  </div>\n\n  <!-- 注意事项 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">四、注意事项与禁忌</div>\n    <div class=\"pv-notice\">\n      <strong>1. 游离酸酸性提示：</strong>α-酮戊二酸为游离酸形式，酸性较强，直接冲服可能酸涩并刺激胃部，建议随餐服用、避免空腹大量摄入。<br>\n      <strong>2. 亚精胺剂量：</strong>本品亚精胺剂量（20–40 mg/日）远高于临床研究常用剂量（0.9 mg/日）<sup>[1]</sup>，该高剂量无人体研究支撑，勿自行再加量；该高纯度补充剂的长期人体安全性数据仍待积累。<br>\n      <strong>3. 抗炎/免疫/代谢类药物使用者：</strong>本品成分可能影响炎症与代谢通路，正在服用抗炎药、免疫调节剂、代谢类药物的人群，使用前应咨询医师。<br>\n      <strong>4. 特殊人群：</strong>本品为定制科研原料，儿童、孕妇、哺乳期女性、肝肾疾病、甲状腺疾病患者等特殊人群，须在医师指导下使用。<br>\n      <strong>5. 与其他剂型勿叠加：</strong>本抗衰粉与抗衰胶囊为同一配方逻辑的两种剂型，选其一服用，勿叠加。\n    </div>\n  </div>\n\n  <!-- 重要声明 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">五、重要声明</div>\n    <p class=\"pv-note\" style=\"font-size:14px;color:#888;\">本品为定制科研原料，仅供科研使用，不可替代药物进行疾病治疗；本品非药品、非保健食品，不得宣传任何疾病预防、治疗或保健功效。儿童、孕妇、肝肾疾病、甲状腺疾病患者等特殊人群，须在医师指导下使用。</p>\n  </div>\n\n  <!-- 参考文献 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">六、参考文献</div>\n    <p class=\"pv-ref\">【1】Schwarz et al. (2022). Effects of spermidine supplementation on cognition and biomarkers in older adults with subjective cognitive decline: A randomized clinical trial. <em>JAMA Network Open</em>, 5(5), e2213875. <a href=\"https://doi.org/10.1001/jamanetworkopen.2022.13875\" target=\"_blank\">DOI</a></p>\n  </div>\n</div>"
+      },
+      "品牌对比": {
+        "title": "品牌对比",
+        "html": "<div class=\"pv-view\">\n  <div class=\"pv-hero\">\n    <div class=\"pv-hero-title\">定制抗衰组合营养素 · 品牌对比</div>\n    <div class=\"pv-hero-sub\">定制抗衰营养素原料粉 + 定制抗衰代灌胶囊</div>\n  </div>\n\n  <!-- 使用建议 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">使用建议</div>\n    <p class=\"pv-note\"><strong>定制抗衰营养素原料粉</strong>：使用<strong>新四件套</strong>的用户每天 <strong>1g</strong>；使用<strong>基础全营养素</strong>或<strong>日常保健</strong>每天 <strong>2g</strong>。</p>\n    <p class=\"pv-note\"><strong>定制抗衰代灌胶囊</strong>：推荐剂量一天 <strong>2~3 粒</strong>，随餐服用。</p>\n  </div>\n\n  <!-- 原料粉成分 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">原料粉成分</div>\n    <p class=\"pv-hint\">散装 · 净含量 50g/袋</p>\n    <table class=\"pv-table\">\n      <tr><th>序号</th><th>成分名称</th><th>每1g含量</th></tr>\n      <tr><td>1</td><td>吡咯喹啉醌（PQQ）</td><td>20 mg</td></tr>\n      <tr><td>2</td><td>麦角硫因（Ergothioneine）</td><td>30 mg</td></tr>\n      <tr><td>3</td><td>亚精胺（Spermidine）</td><td>20 mg</td></tr>\n      <tr><td>4</td><td>尿石素A（Urolithin A）</td><td>465 mg</td></tr>\n      <tr><td>5</td><td>α-酮戊二酸（α-AKG）</td><td>465 mg</td></tr>\n      <tr><td><strong>合计</strong></td><td></td><td><strong>1000 mg</strong></td></tr>\n    </table>\n  </div>\n\n  <!-- 抗衰胶囊成分 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">抗衰胶囊成分</div>\n    <p class=\"pv-hint\">每瓶100粒 · 净含量45g/瓶（每粒0.45g = 452mg）</p>\n    <table class=\"pv-table\">\n      <tr><th>序号</th><th>成分名称</th><th>每1粒含量</th></tr>\n      <tr><td>1</td><td>吡咯喹啉醌（PQQ）</td><td>8 mg</td></tr>\n      <tr><td>2</td><td>麦角硫因（Ergothioneine）</td><td>12 mg</td></tr>\n      <tr><td>3</td><td>亚精胺（Spermidine）</td><td>8 mg</td></tr>\n      <tr><td>4</td><td>尿石素A（Urolithin A）</td><td>200 mg</td></tr>\n      <tr><td>5</td><td>α-酮戊二酸（AKG）</td><td>200 mg</td></tr>\n      <tr><td>6</td><td>稀有人参皂苷Rg3（Ginsenoside Rg3）</td><td>12 mg</td></tr>\n      <tr><td>7</td><td>稀有人参皂苷Rh2（Ginsenoside Rh2）</td><td>12 mg</td></tr>\n      <tr><td><strong>合计</strong></td><td></td><td><strong>452 mg</strong></td></tr>\n    </table>\n  </div>\n\n  <!-- 竞品价值对比 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">竞品价值对比</div>\n    <p class=\"pv-tip\">本对比仅针对<strong>定制抗衰营养素原料粉</strong>（5种核心成分），不包含定制抗衰代灌胶囊。</p>\n\n    <p class=\"pv-note\"><strong>性价比对比总结</strong></p>\n    <div class=\"pv-spec-grid\" style=\"grid-template-columns:1fr 1fr 1fr;\">\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">其他品牌吃全（最低）</div><div class=\"pv-spec-value\" style=\"color:#B8637A;\">15.12元</div></div>\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">其他品牌吃全（最高）</div><div class=\"pv-spec-value\" style=\"color:#B8637A;\">74.22元</div></div>\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">本品（1g）</div><div class=\"pv-spec-value\" style=\"color:#2E7D32;\">5.98元</div></div>\n    </div>\n    <div class=\"pv-summary\">本品每1g <strong>5.98元</strong>，其他品牌购齐需 <strong>15.12~74.22元</strong>，高出 <strong>2.5~12.4倍</strong></div>\n    <p class=\"pv-hint\">数据来自各平台品牌商品页面 · 点击缩略图查看大图</p>\n\n    <!-- 尿石素A -->\n    <p class=\"pv-note\"><strong>尿石素A</strong></p>\n    <table class=\"pv-table\">\n      <tr><th>品牌</th><th>产品</th><th>成分表</th><th>价格</th><th>规格</th><th>换算本品价值</th></tr>\n      <tr><td>Life某Extension</td><td>石榴尿石素A</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/ua1.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>128元</td><td>30粒</td><td>4.96元</td></tr>\n      <tr><td>捷某克N某medical</td><td>尿石素A胶囊</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/ua2.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>1698元</td><td>60粒</td><td>26.32元</td></tr>\n    </table>\n\n    <!-- PQQ -->\n    <p class=\"pv-note\"><strong>PQQ</strong></p>\n    <table class=\"pv-table\">\n      <tr><th>品牌</th><th>产品</th><th>成分表</th><th>价格</th><th>规格</th><th>换算本品价值</th></tr>\n      <tr><td>N某OW</td><td>双倍PQQ 40mg</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/pqq1.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>239元</td><td>50粒</td><td>2.39元</td></tr>\n      <tr><td>ihe某rb</td><td>CGN高含量PQQ</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/pqq2.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>226元</td><td>90粒</td><td>2.51元</td></tr>\n    </table>\n\n    <!-- 麦角硫因 -->\n    <p class=\"pv-note\"><strong>麦角硫因</strong></p>\n    <table class=\"pv-table\">\n      <tr><th>品牌</th><th>产品</th><th>成分表</th><th>价格</th><th>规格</th><th>换算本品价值</th></tr>\n      <tr><td>Gene某3仅某三</td><td>麦角硫因99.99%</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/egt1.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>499元</td><td>60粒</td><td>8.32元</td></tr>\n      <tr><td>Mix某Power</td><td>麦角硫因口服</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/egt2.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>349元</td><td>60粒</td><td>6.98元</td></tr>\n    </table>\n\n    <!-- 亚精胺 -->\n    <p class=\"pv-note\"><strong>亚精胺</strong></p>\n    <table class=\"pv-table\">\n      <tr><th>品牌</th><th>产品</th><th>成分表</th><th>价格</th><th>规格</th><th>换算本品价值</th></tr>\n      <tr><td>某云某杉</td><td>进口亚精胺胶囊</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/spd1.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>165元</td><td>30粒</td><td>0.28元</td></tr>\n      <tr><td>CGN某加州某黄金</td><td>亚精胺稻米提取物</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/spd2.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>156元</td><td>90粒</td><td>34.67元</td></tr>\n      <tr><td>某Double某Wood</td><td>亚精胺补充剂</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/spd3.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"成分表\"></td><td>168元</td><td>120粒</td><td>2.80元</td></tr>\n    </table>\n\n    <!-- AKG -->\n    <p class=\"pv-note\"><strong>α-酮戊二酸（AKG）</strong></p>\n    <table class=\"pv-table\">\n      <tr><th>品牌</th><th>产品</th><th>外观</th><th>价格</th><th>规格</th><th>换算本品价值</th></tr>\n      <tr><td>某Nut某ricost</td><td>AKG补充剂500mg</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/akg1.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"外观\"></td><td>132元</td><td>240粒</td><td>0.51元</td></tr>\n      <tr><td>Pro某Health</td><td>钙AKG补充剂</td><td><img src=\"https://fastly.jsdelivr.net/gh/liuchenyu26131/kepu@main/images/111_抗衰粉/akg2.png\" style=\"width:64px;height:84px;object-fit:cover;border-radius:5px;border:1px solid #ddd;cursor:pointer\" alt=\"外观\"></td><td>204元</td><td>60粒</td><td>2.40元</td></tr>\n    </table>\n\n    <!-- 本品总结 -->\n    <p class=\"pv-note\"><strong>定制抗衰营养素原料粉 · 本品总结</strong><br>PQQ 20mg + 麦角硫因 30mg + 亚精胺 20mg + 尿石素A 465mg + AKG 465mg</p>\n    <div class=\"pv-spec-grid\" style=\"grid-template-columns:1fr 1fr 1fr;\">\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">原料粉价格</div><div class=\"pv-spec-value\">299元</div></div>\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">规格</div><div class=\"pv-spec-value\">50g/袋</div></div>\n      <div class=\"pv-spec\"><div class=\"pv-spec-label\">每天花费</div><div class=\"pv-spec-value\" style=\"color:#B8637A;\">5.98元</div></div>\n    </div>\n    <p class=\"pv-note\"><span style=\"display:inline-block;background:#D4A843;color:#fff;padding:2px 12px;border-radius:12px;font-weight:600;\">新四件套</span> 使用人群：每天 <strong>1g</strong>　·　<span style=\"display:inline-block;background:#6B3FA0;color:#fff;padding:2px 12px;border-radius:12px;font-weight:600;\">基础全营养素/保健</span> 使用人群：每天 <strong>2g</strong></p>\n    <div class=\"pv-tip\"><strong>说明：</strong>按本品1g成分含量购齐所有品牌，费用 <strong>15.12~74.22元</strong>，是本品 <strong>5.98元</strong> 的 <strong>2.5~12.4倍</strong>。</div>\n\n    <div class=\"pv-tip\"><strong>换算逻辑：</strong>换算价值 = 该品牌每粒单价 / 每粒含量(mg) × 本品对应成分含量(mg)。例如：某品牌PQQ 40mg/粒，单价4.78元，本品需PQQ 20mg，则换算 = 4.78 / 40 × 20 = 2.39元。</div>\n  </div>\n\n  <!-- 注意事项 -->\n  <div class=\"pv-card\">\n    <div class=\"pv-card-title\">注意事项</div>\n    <div class=\"pv-notice\">\n      <strong>1. 特殊人群：</strong>孕妇、哺乳期女性、儿童及青少年禁用。高血压、心脏疾病、出血倾向（胃溃疡/血友病）患者慎用，或在医师指导下使用。<br>\n      <strong>2. 药物相互作用：</strong>正在服用抗凝药物（如阿司匹林、华法林）者慎用，PQQ和人参皂苷可能增强抗凝效果。手术前建议提前2周停用。<br>\n      <strong>3. 服用时间：</strong>PQQ可能引起神经兴奋，建议早晨或随餐服用，避免晚间服用。人参皂苷类避免与浓茶、咖啡同服。<br>\n      <strong>4. 剂量调整：</strong>推荐剂量仅供参考，初次可从较低剂量建立耐受，不建议长期超量服用。<br>\n      <strong>5. 法律声明：</strong>本品为原料制品，仅供科研使用，非正式药物和食品保健品请规范使用。\n    </div>\n  </div>\n</div>"
       },
       "simple": {
         "title": "简单科普",
@@ -22,6 +27,7 @@
     "id": "112",
     "code": "112",
     "name": "抗衰胶囊",
+    "src_folder": "112_抗衰胶囊",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -41,6 +47,7 @@
     "id": "61",
     "code": "61",
     "name": "三丁酸甘油酯",
+    "src_folder": "61_三丁酸甘油酯",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -60,6 +67,7 @@
     "id": "681",
     "code": "681",
     "name": "基础全营养素A版",
+    "src_folder": "681_基础全营养素A版",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -79,6 +87,7 @@
     "id": "682",
     "code": "682",
     "name": "基础全营养素B版",
+    "src_folder": "682_基础全营养素B版",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -98,6 +107,7 @@
     "id": "711",
     "code": "711",
     "name": "活性B族A版",
+    "src_folder": "711_活性B族A版",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -117,6 +127,7 @@
     "id": "712",
     "code": "712",
     "name": "活性B族B版",
+    "src_folder": "712_活性B族B版",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -136,6 +147,7 @@
     "id": "713",
     "code": "713",
     "name": "活性B族代灌胶囊",
+    "src_folder": "713_活性B族代灌胶囊",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -155,6 +167,7 @@
     "id": "731",
     "code": "731",
     "name": "纯肌肽锌",
+    "src_folder": "731_纯肌肽锌",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -174,6 +187,7 @@
     "id": "732",
     "code": "732",
     "name": "复配肌肽锌",
+    "src_folder": "732_复配肌肽锌",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -193,6 +207,7 @@
     "id": "733",
     "code": "733",
     "name": "吡啶甲酸锌",
+    "src_folder": "733_吡啶甲酸锌",
     "views": {
       "pro": {
         "title": "专业科普",
@@ -212,6 +227,7 @@
     "id": "77",
     "code": "77",
     "name": "复合岩藻多糖",
+    "src_folder": "77_复合岩藻多糖",
     "views": {
       "pro": {
         "title": "专业科普",
