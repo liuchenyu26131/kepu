@@ -2,3 +2,13 @@
 *.json text eol=lf
 *.json -text
 products.json binary
+
+# 二进制资源同样禁止行尾转换（PDF 被当文本转换会直接损坏文件）
+*.pdf binary
+*.webp binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.mp4 binary
+*.mp3 binary
